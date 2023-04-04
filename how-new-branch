@@ -1,0 +1,3 @@
+git branch название
+git checkout название
+git push --set-upstream origin название
